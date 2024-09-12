@@ -1,0 +1,19 @@
+{
+  "banks": [
+    {
+      "code": "001",
+      "name": "mizrahi",
+      "description": "blalasslf"
+    },
+    {
+      "code": "002",
+      "name": "leumi",
+      "description": "blala"
+    },
+    {
+      "code": "003",
+      "name": "poalim",
+      "description": "blala"
+    }
+  ]
+}

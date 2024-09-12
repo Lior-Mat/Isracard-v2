@@ -1,0 +1,37 @@
+{
+  "cards":[
+    {
+      "codeNumber": "1234567891234562",
+      "createdAt": "2022-01-01T09:50:00",
+      "imagePath": null,
+      "isBlocked": false,
+      "isDigital": false,
+      "averageIncome": 0.0,
+      "limit": 0.0,
+      "bankCode": "001",
+      "occupation": null
+    },
+    {
+      "codeNumber": null,
+      "createdAt": "2023-06-01T19:37:00",
+      "imagePath": null,
+      "isBlocked": false,
+      "isDigital": false,
+      "averageIncome": 0.0,
+      "limit": 0.0,
+      "bankCode": "002",
+      "occupation": null
+    },
+    {
+      "codeNumber": null,
+      "createdAt": "2024-04-01T07:25:00",
+      "imagePath": null,
+      "isBlocked": false,
+      "isDigital": false,
+      "averageIncome": 0.0,
+      "limit": 0.0,
+      "bankCode": "003",
+      "occupation": null
+    }
+  ]
+}
